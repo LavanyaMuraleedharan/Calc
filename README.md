@@ -106,7 +106,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![output](<cal.png>)
+![image](https://github.com/LavanyaMuraleedharan/Calc/assets/120103862/d8585b94-fedc-4b90-b538-c6240a139661)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
